@@ -2,6 +2,8 @@
 
 This project is a simple e-commerce website created using HTML, CSS, and JavaScript. It allows users to browse products, add them to a cart, and manage their cart contents.
 
+https://github.com/UmitAygunn/E-Commerce/issues/1#issue-1955827377
+
 # Demo
 
 Live Demo - Explore the live demo of the simple e-commerce website to browse products, add them to your cart, and manage your cart contents.
